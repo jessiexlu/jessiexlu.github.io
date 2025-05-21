@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD candidate in the [Sustainable Development Program at Columbia University](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development). I combine economic reduced form methods with ecological modeling to study how ecosystem degradation impacts human welfare and how policy decisions impact environmental quaklity. I am particularly interested in these dynamics in the context of cities, health, and/or development
+I am a fifth year PhD candidate in the [Sustainable Development Program at Columbia University](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development). I combine economic reduced form methods with ecological modeling to study how ecosystem degradation impacts human welfare and how policy decisions impact environmental quality. I am particularly interested in these dynamics in the context of cities, health, and/or development
 
 Prior to my PhD, I worked at the Harvard Kennedy School and the Center for Global Development. I hold a BA in Anthropology from the University of Pennsylvania. 
 
