@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Jessie Lu"
 author_profile: true
 redirect_from: 
   - /about/
