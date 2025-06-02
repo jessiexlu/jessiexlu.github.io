@@ -193,6 +193,8 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Make site discoverable by Google
+google_site_verification: google7116df3187c8e23b
 
 # Conversion
 markdown: kramdown
