@@ -159,6 +159,7 @@ include:
   - _pages
   - files
   - google7116df3187c8e23b.html
+  - google7116df3187c8e23b(1).html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
