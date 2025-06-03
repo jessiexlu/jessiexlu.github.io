@@ -23,6 +23,8 @@ Active Projects
 
 Presentations
 ------
+*Summer Conference*, AERE, 2025
+
 *Environmental Economics PhD Workshop*, London School of Economics, 2024
 
 *Summer School in Environmental and Energy Economics*, UC Berkeley, 2024
