@@ -11,7 +11,7 @@ I am a fifth year PhD candidate in the [Sustainable Development Program at Colum
 
 Prior to my PhD, I worked at the Harvard Kennedy School and the Center for Global Development. I hold a BA in Anthropology from the University of Pennsylvania. 
 
-Email me at jl6001[at]columbia[dot]edu. You can access my CV [here](https://jessiexlu.github.io/files/cv_may2025.pdf).
+Email me at jl6001[at]columbia[dot]edu. You can access my CV [here](https://jessiexlu.github.io/files/cv_july2025.pdf).
 
 Active Projects
 ------
