@@ -13,13 +13,17 @@ Prior to my PhD, I worked at the Harvard Kennedy School and the Center for Globa
 
 Email me at jl6001[at]columbia[dot]edu. You can access my CV [here](https://jessiexlu.github.io/files/lu-cv-oct25.pdf).
 
-Active Projects
+Working Paper
 ------
-**Biodiversity Loss and Beef Production in Southern Africa**
+[**Biodiversity Loss and Beef Production in Southern Africa**](https://drive.google.com/file/d/1PARpMC-Wim--XC-_BlYX0sc_VU1rRnSX/view?usp=sharing)
 
-**Damages from the Emerald Ash Borer: Invasive Species, Urban Forest Loss, and Social Inequality**
+[**Damages from the Emerald Ash Borer: Invasive Species, Urban Forest Loss, and Social Inequality**](https://drive.google.com/file/d/17xyGcfVM2ceJAM9w4VhKAVs4LNrDyJzk/view?usp=drive_link)
 
 **Physical and Mental Health Benefits from Urban Parks** *(with Abigail Dow and Graeme Peterson)*
+
+Publications
+------
+[Bridging the Gap Between the Water-Energy-Food Nexus and Compound Risks](https://iopscience.iop.org/article/10.1088/1748-9326/ad1ad0), **Environmental Research Letters**, *(with Leah Jones-Crank and Ben Orlove)*, 2024
 
 Presentations
 ------
