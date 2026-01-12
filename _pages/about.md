@@ -11,13 +11,13 @@ I am a fifth year PhD candidate in the [Sustainable Development Program at Colum
 
 Prior to my PhD, I worked at the Harvard Kennedy School and the Center for Global Development. I hold a BA in Anthropology from the University of Pennsylvania. 
 
-Email me at jl6001[at]columbia[dot]edu. You can access my CV [here](https://jessiexlu.github.io/files/lu-cv-oct25.pdf).
+Email me at jl6001[at]columbia[dot]edu. You can access my CV [here](https://jessiexlu.github.io/files/cv_jan2026.pdf).
 
-Working Paper
+Working Papers
 ------
-[**Biodiversity Loss and Beef Production in Southern Africa**](https://drive.google.com/file/d/1PARpMC-Wim--XC-_BlYX0sc_VU1rRnSX/view?usp=sharing)
+[**Fenced In: Biodiversity Loss, Land Degradation, and Beef Production in Southern Africa**](https://drive.google.com/file/d/1PARpMC-Wim--XC-_BlYX0sc_VU1rRnSX/view?usp=drive_link)
 
-[**Damages from the Emerald Ash Borer: Invasive Species, Urban Forest Loss, and Social Inequality**](https://drive.google.com/file/d/17xyGcfVM2ceJAM9w4VhKAVs4LNrDyJzk/view?usp=drive_link)
+[**Urban Tree Loss and Unequal Adaptation to the Emerald Ash Borer**](https://drive.google.com/file/d/1yJV8stuTSHfaHooqGnBNcqGadyOBsmIe/view?usp=drive_link)
 
 **Physical and Mental Health Benefits from Urban Parks** *(with Abigail Dow and Graeme Peterson)*
 
