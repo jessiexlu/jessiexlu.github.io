@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My research combines economic reduced form methods with ecological modeling to study how ecosystem degradation impacts human welfare and how policy decisions impact environmental quality. I am particularly interested in these dynamics in the context of cities, health, and/or development.
+I am an Assistant Professor in Biodiversity Economics in the Department of Geography and Environment at the London School of Economics. My research combines economic reduced form methods with ecological modeling to study how ecosystem degradation impacts human welfare and how policy decisions impact environmental quality. I am particularly interested in these dynamics in the context of cities, health, and/or development.
 
-I recently received my PhD from the [Sustainable Development Program at Columbia University](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development). Prior to my PhD, I worked at the Harvard Kennedy School and the Center for Global Development. I hold a BA in Anthropology from the University of Pennsylvania. 
+I received my PhD from the Sustainable Development Program at Columbia University. Prior to my PhD, I worked at the Harvard Kennedy School and the Center for Global Development. I hold a BA in Anthropology from the University of Pennsylvania. 
 
-In fall 2026 I will be joining the Environment and Geography Department at the London School of Economics as an Assistant Professor of Biodiversity Economics.
-
-Email me at jl6001[at]columbia[dot]edu. You can access my CV [here](https://jessiexlu.github.io/files/lu_cv_jun2026.pdf).
+Email me at j[dot]lu53[at]lse[dot]ac[dot]uk. You can access my CV [here](https://jessiexlu.github.io/files/lu_cv_july2026.pdf).
 
 Working Papers
 ------
