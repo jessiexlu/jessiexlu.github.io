@@ -4,7 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-
 Working Papers
 ------
 [**Fenced In: Biodiversity Loss, Land Degradation, and Livestock Production in Southern Africa**](https://drive.google.com/file/d/1PARpMC-Wim--XC-_BlYX0sc_VU1rRnSX/view?usp=drive_link) *(Job Market Paper)*
