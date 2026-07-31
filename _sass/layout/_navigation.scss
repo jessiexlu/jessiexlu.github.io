@@ -185,7 +185,7 @@
     text-decoration: none;
 
     &:hover {
-      color: var(--global-masthead-link-color-hover);
+      color: var(--global-link-color-hover);
     }
   }
 
@@ -277,7 +277,7 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: var(--global-masthead-link-color-hover);
+        color: var(--global-link-color-hover);
         background: var(--global-border-color);
       }
     }
